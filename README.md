@@ -24,12 +24,6 @@ O Nexus fornece informação sobre o projeto; a execução dos agentes pertence 
 
 **JavaScript · Node.js · Análise de código · Agentes de IA**
 
-### [EquipManage](https://github.com/dinisroxo99/EquipManage)
-
-Projeto de gestão de equipamentos desenvolvido a partir de um desafio técnico, com API em ASP.NET Core, interface em Blazor WebAssembly e acesso a dados com Entity Framework Core.
-
-**C# · ASP.NET Core · Blazor · Entity Framework Core**
-
 ### [AquaLab Backend](https://github.com/AquaLab-Shift-Appens/AquaLab-Backend)
 
 Backend para recolher e processar dados de sensores de qualidade da água e gerar relatórios de apoio à decisão. Projeto desenvolvido em equipa.
